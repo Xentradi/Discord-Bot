@@ -1,0 +1,29 @@
+{
+  "name": "template-discordbot",
+  "version": "1.0.0",
+  "description": "Template for creating Discord bots",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xentradi/template-discordBot.git"
+  },
+  "author": "Xentradi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xentradi/template-discordBot/issues"
+  },
+  "homepage": "https://github.com/Xentradi/template-discordBot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "winston": "^3.3.3",
+    "winston-daily-rotate-file": "^4.5.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.8.1"
+  }
+}
