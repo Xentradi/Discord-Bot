@@ -1,5 +1,5 @@
 {
-  "name": "template-discordbot",
+  "name": "Discord Bot Template",
   "version": "1.0.0",
   "description": "Template for creating Discord bots",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Xentradi/template-discordBot.git"
+    "url": "git+https://github.com/Xentradi/Discord-Bot.git"
   },
   "author": "Xentradi",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Xentradi/template-discordBot/issues"
+    "url": "https://github.com/Xentradi/Discord-Bot/issues"
   },
-  "homepage": "https://github.com/Xentradi/template-discordBot#readme",
+  "homepage": "https://github.com/Xentradi/Discord-Bot#readme",
   "dependencies": {
     "discord.js": "^12.3.1",
     "dotenv": "^8.2.0",
