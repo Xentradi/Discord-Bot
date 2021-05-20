@@ -1,29 +1,29 @@
 {
-  "name": "Discord Bot Template",
-  "version": "1.0.0",
-  "description": "Template for creating Discord bots",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Xentradi/Discord-Bot.git"
-  },
-  "author": "Xentradi",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Xentradi/Discord-Bot/issues"
-  },
-  "homepage": "https://github.com/Xentradi/Discord-Bot#readme",
-  "dependencies": {
-    "discord.js": "^12.3.1",
-    "dotenv": "^8.2.0",
-    "fs": "0.0.1-security",
-    "winston": "^3.3.3",
-    "winston-daily-rotate-file": "^4.5.0"
-  },
-  "devDependencies": {
-    "eslint": "^7.8.1"
-  }
+    "name": "discordbottemplate",
+    "version": "1.0.0",
+    "description": "Template for creating Discord bots",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Xentradi/Discord-Bot.git"
+    },
+    "author": "Xentradi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Xentradi/Discord-Bot/issues"
+    },
+    "homepage": "https://github.com/Xentradi/Discord-Bot#readme",
+    "dependencies": {
+        "discord.js": "^12.3.1",
+        "dotenv": "^9.0.2",
+        "fs": "0.0.1-security",
+        "winston": "^3.3.3",
+        "winston-daily-rotate-file": "^4.5.0"
+    },
+    "devDependencies": {
+        "eslint": "^7.8.1"
+    }
 }
